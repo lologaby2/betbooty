@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+moviepy==1.0.3
+python-multipart
+requests
+pydub
+numpy<2.0.0
